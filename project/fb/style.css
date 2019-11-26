@@ -1,0 +1,59 @@
+body{
+	font-family: "Helvetica Neue", "Futura", "Trebuchet MS", Arial;
+	font-size: 15px;
+}
+.postcontainer{
+	width: 450px;
+}
+.icon{
+	border-radius: 50px;
+	height: 50px;
+	position: absolute;
+}
+.icon-txt{
+	height: 25px;
+	position: absolute;
+	padding: 10px;
+}
+.icon-live{
+	height: 35px;
+	position: absolute;
+	padding: 5px;
+	border-left: solid 2px #b7b7b7;
+}
+.icon-location{
+	height: 35px;
+	position: absolute;
+	padding: 5px;
+	border-left: solid 2px #b7b7b7;
+}
+.input{
+	border: none;
+	margin-left: 60px; 
+	font-size: inherit;
+	padding: 20px;
+	width: 65%;
+}
+.upload{
+	height: 50px;
+	position: absolute;
+	border-left: solid 2px #b7b7b7;
+}
+.post-a{
+	border-bottom: solid 2px #b7b7b7;
+}
+.op-txt{
+	height: inherit;
+	text-decoration: none;
+	color: #000;
+	padding-top: 15px;
+	margin-left: 50px;
+	position: absolute;
+}
+.options{
+	width: 32%;
+
+}
+.post-b{
+	display: -webkit-box;
+}

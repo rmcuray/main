@@ -1,0 +1,30 @@
+body{
+
+}
+.musicplayer{
+width: 100%;
+height: 500px;
+border: none;
+
+}
+.dragdrop{
+	height: 600px;
+	width: 100%;
+	border: none;
+}
+.videoplayer{
+	height: 500px;
+	width: 100%;
+	border: none;
+}
+.gallery{
+	height: 1000px;
+	width: 100%;
+	border: none;
+}
+.composer{
+	height: 120px;
+	width: 100%;
+	border:none;
+	margin: auto;
+}
