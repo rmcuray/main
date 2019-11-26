@@ -1,0 +1,63 @@
+html{
+  font-family: fantasy, sans-serif;
+}
+body{
+  max-width: 1080px;
+  margin: auto;
+}
+section{
+  border-bottom: 1px solid #000;
+}
+.contact-banner{
+  background-color: #000;
+  font-style: normal;
+}
+.banneremail, .bannerphone{
+  color: #fff;
+  text-decoration: none;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+.banneremail{
+  float: right;
+}
+.banneremail:hover,.bannerphone:hover{
+  color: #ff5722;
+}
+.logo{
+  width: 5em;
+  float: left;
+}
+.navbar{
+  float:right;
+}
+.tabs{
+  display: inline;
+  font-size: 2em;
+  border-left: 1px solid #000;
+  padding:0em 1em;
+  color: inherit;
+}
+.tabs:hover{
+  color: #ff5722;
+}
+.tabs:active{
+  color: #ff8b66;
+}
+@media only screen and (max-width: 600px) {
+  html{
+    overflow: hidden;
+  }
+body{
+  min-width: 320px;
+}
+.logo{
+  display: block;
+  width: 30%;
+  margin-left: 35%;
+  margin-right: 35%;
+}
+.tabs{
+  font-size: 1em;
+}
+}
