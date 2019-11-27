@@ -1,0 +1,50 @@
+*{
+  font-family: fantasy;
+}
+body{
+  background-color: grey;
+  width: 1080px;
+  margin: auto;
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: fantasy;
+
+}
+nav ul li{
+  display: inline;
+  padding: 1em;
+  font-size: 2em;
+}
+nav ul li a{
+  text-decoration: none;
+  font-style: normal;
+  color: white;
+}
+ul{
+  margin: 0;
+  padding: 0;
+  animation-duration: 3s;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}
+a:hover, a:active{
+  color: orange;
+}
+.navbar{
+  text-align: center;
+  width: 100%;
+  background-color: black;
+}
+.logo{
+  float: left;
+  font-size: 1.6em;
+  text-decoration: none;
+  color: white;
+  padding: 0em 1em;
+  font-weight: 600;
+}
+.container{
+  margin-left: 9em;
+}
