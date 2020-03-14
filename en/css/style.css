@@ -2417,6 +2417,6 @@ ul.nav-tabs.nav-tabs-right > li:last-child {
   background-position: right center no-repeat;
   background-attachment: fixed;
 }
-.nav-text a{
+.navbar-text a i{
 color:#ff5821!important;
 }
