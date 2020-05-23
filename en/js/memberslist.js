@@ -1,6 +1,5 @@
 document.getElementById("memberslist").outerHTML=
-"
-<div style="padding-bottom: 1em;" class="col-xl-6 col-lg-6 col-md-6">
+"<div style="padding-bottom: 1em;" class="col-xl-6 col-lg-6 col-md-6">
                                 <p class="activemem">Active</p>
                                 <p class="inactivemem">Inactive</p>
                             </div>
@@ -84,5 +83,4 @@ document.getElementById("memberslist").outerHTML=
                                         <span class="badge badge-info">Member</span>
                                     </div>
                                 </div>
-                            </div>
-";
+                            </div>";
