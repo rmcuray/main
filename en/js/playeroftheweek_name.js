@@ -1,3 +1,1 @@
-var curInnerHTML = document.body.innerHTML;
-curInnerHTML = curInnerHTML.replace("player_ign", "GoodTimesWithScar");
-document.body.innerHTML = curInnerHTML;
+window.onload = clear(); function clear() { document.body.innerHTML = document.body.innerHTML.replace('player_ign', 'GoodTimesWithScar'); }
