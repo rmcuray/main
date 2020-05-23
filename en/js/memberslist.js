@@ -1,2 +1,4 @@
-document.getElementById("memberslist").outerHTML=
-"nnkn nmmk jknkj     c";
+document.getElementById("memberslist").innerHTML=
+"dgfgf
+gg
+fb";
