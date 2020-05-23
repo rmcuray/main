@@ -1,2 +1,3 @@
-(function(){
- document.body.innerText = document.body.innerText.replace('playe_ign', 'GoodTimesWithScar');
+var curInnerHTML = document.body.innerHTML;
+curInnerHTML = curInnerHTML.replace("player_ign", "GoodTimesWithScar");
+document.body.innerHTML = curInnerHTML;
