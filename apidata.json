@@ -1,4 +1,4 @@
- {
+    {
         "ip": "66.70.69.143",
         "port": 25597,
         "debug": {
@@ -29,13 +29,14 @@
         "hostname": "play.nauticraftmc.com",
         "icon": "https://vidstreaming.io/img/logo_vidstreaming.png",
         "software": "Paper"
-    }
-"news": {
-        "announcement": [
-             "Andy54545", 
-             "C3ptik", 
-             "Dinglechalk_JR", 
-             "PopcornEater666", 
-             "Stickie_Pickle"],
-        "potwdescription": ["Text text"],
+        "news": {
+            "announcement": [
+                "Andy54545",
+                "C3ptik",
+                "Dinglechalk_JR",
+                "PopcornEater666",
+                "Stickie_Pickle"
+            ],
+            "potwdescription": ["Text text"],
         },
+    }
