@@ -18,9 +18,10 @@
             "html": ["<span style=\"color: #AAAAAA\">      -[<\/span><span style=\"color: #AA00AA\">+<\/span><span style=\"color: #AAAAAA\">]-<\/span><span style=\"color: #55FFFF\"> Welcome to<\/span><span style=\"color: #00AAAA\"> NautiCraft<\/span><span style=\"color: #AAAAAA\"> -[<\/span><span style=\"color: #AA00AA\">+<\/span><span style=\"color: #AAAAAA\">]-<\/span>", "<span style=\"color: #FF55FF\">   Fun &amp; friendly multiplayer experience!<\/span>"]
         },
         "members": {
-            "online": 5,
-            "max": 50,
             "list": ["Andy54545", "C3ptik", "Dinglechalk_JR", "PopcornEater666", "Stickie_Pickle"]
+        },
+        "staff": {
+            "list": ["AR312", "Derpynick", "BigBoiDel"]
         },
         "version": "1.15.2",
         "online": true,
@@ -29,3 +30,12 @@
         "icon": "https://vidstreaming.io/img/logo_vidstreaming.png",
         "software": "Paper"
     }
+"news": {
+        "announcement": [
+             "Andy54545", 
+             "C3ptik", 
+             "Dinglechalk_JR", 
+             "PopcornEater666", 
+             "Stickie_Pickle"],
+        "potwdescription": ["Text text"],
+        },
