@@ -1,42 +1,34 @@
-    {
-        "ip": "66.70.69.143",
-        "port": 25597,
-        "debug": {
-            "ping": true,
-            "query": false,
-            "srv": true,
-            "querymismatch": false,
-            "ipinsrv": false,
-            "cnameinsrv": false,
-            "animatedmotd": false,
-            "cachetime": 1591562760,
-            "apiversion": 2
-        },
-        "motd": {
-            "raw": ["\u00a77      -[\u00a75+\u00a77]-\u00a7b Welcome to\u00a73 NautiCraft\u00a77 -[\u00a75+\u00a77]-\u00a7r", "\u00a7d   Fun & friendly multiplayer experience!"],
-            "clean": ["      -[+]- Welcome to NautiCraft -[+]-", "   Fun &amp; friendly multiplayer experience!"],
-            "html": ["<span style=\"color: #AAAAAA\">      -[<\/span><span style=\"color: #AA00AA\">+<\/span><span style=\"color: #AAAAAA\">]-<\/span><span style=\"color: #55FFFF\"> Welcome to<\/span><span style=\"color: #00AAAA\"> NautiCraft<\/span><span style=\"color: #AAAAAA\"> -[<\/span><span style=\"color: #AA00AA\">+<\/span><span style=\"color: #AAAAAA\">]-<\/span>", "<span style=\"color: #FF55FF\">   Fun &amp; friendly multiplayer experience!<\/span>"]
-        },
-        "members": {
-            "list": ["Andy54545", "C3ptik", "Dinglechalk_JR", "PopcornEater666", "Stickie_Pickle"]
-        },
-        "staff": {
-            "list": ["AR312", "Derpynick", "BigBoiDel"]
-        },
-        "version": "1.15.2",
-        "online": true,
-        "protocol": 578,
-        "hostname": "play.nauticraftmc.com",
-        "icon": "https://vidstreaming.io/img/logo_vidstreaming.png",
-        "software": "Paper"
-        "news": {
-            "announcement": [
-                "Andy54545",
-                "C3ptik",
-                "Dinglechalk_JR",
-                "PopcornEater666",
-                "Stickie_Pickle"
-            ],
-            "potwdescription": ["Text text"],
-        },
+{
+    "online": true,
+    "ip": "127.0.0.1",
+    "port": 25567,
+    "news": {
+        "announcement": [
+            "<span> </span>"
+        ],
+        "potwdesc": [
+            "<span> </span>"
+        ]
+    },
+    "players": {
+        "staff": [
+            "AR312", "Derpynick", "BigBoiDel"
+        ],
+        "members": [
+            "AR312", "Derpynick", "BigBoiDel"
+        ],
+        "inactive": [
+            "BigBoiDel", "FraBouJun", "Satomi_9495", "Jeypiii", "Godlike_Zeik"
+        ]
+    },
+    "mods": {
+        "names": [
+            "BiomesOPlenty",
+            "MoreFurnaces"
+        ],
+        "raw": [
+            "BiomesOPlenty 2.1.0",
+            "MoreFurnaces 1.3.9"
+        ]
     }
+}
