@@ -1,8 +1,8 @@
 {
     "potwimg": "https://render.namemc.com/skin/3d/body.png?skin=eff76336f5ee74e5&model=classic&theta=-30&phi=20&time=114&width=600&height=800",
     "news": {
-        "announcement": ["!!!CASINO NOW OPEN!!!"],
-        "potwdesc": ["!!!CASINO NOW OPEN!!!"],
+        "announcement": ["<i>---</i><br>","<i>June 2,2020</i><br>Congratulations <b>Clven</b> for the Player Of The Week award!","<i>June 9,2020</i><br>PNY APP prerelease!! v1.8.3","<i>June 9,2020</i><br>Check out Trading HQ for cool offers!"],
+        "potwdesc": ["Congratulations Clven, you are the first player of the week. Kingdom of Felimonia is looking wesome!"],
         "html": ["!!!CASINO NOW OPEN!!!"]
     },
     "players": {
