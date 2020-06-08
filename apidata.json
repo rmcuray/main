@@ -1,6 +1,5 @@
 {
-    "ip": "139.99.174.76",
-    "port": 25581,
+    "potwimg": "https://render.namemc.com/skin/3d/body.png?skin=eff76336f5ee74e5&model=classic&theta=-30&phi=20&time=114&width=600&height=800",
     "news": {
         "announcement": ["!!!CASINO NOW OPEN!!!"],
         "potwdesc": ["!!!CASINO NOW OPEN!!!"],
@@ -11,5 +10,4 @@
         "staff": ["AR312", "Derpynick", "BigBoiDel"],
         "inactive": ["BigBoiDel", "FraBouJun", "Satomi_9495", "Jeypiii", "Godlike_Zeik"]
     },
-    "version": "1.15.2"
 }
