@@ -1,14 +1,13 @@
 {
     "potwimg": "https://render.namemc.com/skin/3d/body.png?skin=eff76336f5ee74e5&model=classic&theta=-30&phi=20&time=114&width=600&height=800",
-    "ip": "127.0.0.1",
     "news": {
         "announcement": ["!!!CASINO NOW OPEN!!!"],
         "potwdesc": ["!!!CASINO NOW OPEN!!!"],
         "html": ["!!!CASINO NOW OPEN!!!"]
     },
     "players": {
-        "member": ["CamilinhaPlays","Clven","Mochii","ShiraSpectre","Unsolely","VI"],
-        "staff": ["Chyzu","Server_OP","AR312", "Derpynick", "BigBoiDel"],
-        "inactive": ["BigBoiDel", "FraBouJun", "Satomi_9495", "Jeypiii", "Godlike_Zeik","MattPirater"]
-    },
+        "member": ["CamilinhaPlays", "Clven", "Mochii", "ShiraSpectre", "Unsolely", "VI"],
+        "staff": ["Chyzu", "Server_OP", "AR312", "Derpynick", "BigBoiDel"],
+        "inactive": ["BigBoiDel", "FraBouJun", "Satomi_9495", "Jeypiii", "Godlike_Zeik", "MattPirater"]
+    }
 }
