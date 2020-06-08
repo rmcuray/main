@@ -1,1 +1,15 @@
-
+{
+    "ip": "139.99.174.76",
+    "port": 25581,
+    "news": {
+        "announcement": ["!!!CASINO NOW OPEN!!!"],
+        "potwdesc": ["!!!CASINO NOW OPEN!!!"],
+        "html": ["!!!CASINO NOW OPEN!!!"]
+    },
+    "players": {
+        "member": ["AR312", "Derpynick", "BigBoiDel"],
+        "staff": ["AR312", "Derpynick", "BigBoiDel"],
+        "inactive": ["BigBoiDel", "FraBouJun", "Satomi_9495", "Jeypiii", "Godlike_Zeik"]
+    },
+    "version": "1.15.2"
+}
