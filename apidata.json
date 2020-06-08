@@ -1,4 +1,5 @@
 {
+    "build": "1.8.3",
     "potwimg": "https://render.namemc.com/skin/3d/body.png?skin=eff76336f5ee74e5&model=classic&theta=-30&phi=20&time=114&width=600&height=800",
     "appinfo": ["<p>This app is coded and designed by RMCuray a.k.a AR312. The app serves as a quick access tool to stay updated with the latest news and developments on the server. </p><br><p> PNY is originally a guild of minecraft players made of friendly and talented builders founded by the one and only derpiest of all derpy, Derpynick.</p> <p style ='font-size:0.7em' class ='has-text-align-right'>Copyright© 2020– 2021</p>"],
     "news": {
