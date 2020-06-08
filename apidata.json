@@ -4,10 +4,10 @@
     "port": 25567,
     "news": {
         "announcement": [
-            "<span> </span>"
+            "<span> This is a sample announcement</span>"
         ],
         "potwdesc": [
-            "<span> </span>"
+            "<span> This is a sample description</span>"
         ]
     },
     "players": {
