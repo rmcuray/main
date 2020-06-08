@@ -17,7 +17,7 @@
             "clean": ["      -[+]- Welcome to NautiCraft -[+]-", "   Fun &amp; friendly multiplayer experience!"],
             "html": ["<span style=\"color: #AAAAAA\">      -[<\/span><span style=\"color: #AA00AA\">+<\/span><span style=\"color: #AAAAAA\">]-<\/span><span style=\"color: #55FFFF\"> Welcome to<\/span><span style=\"color: #00AAAA\"> NautiCraft<\/span><span style=\"color: #AAAAAA\"> -[<\/span><span style=\"color: #AA00AA\">+<\/span><span style=\"color: #AAAAAA\">]-<\/span>", "<span style=\"color: #FF55FF\">   Fun &amp; friendly multiplayer experience!<\/span>"]
         },
-        "players": {
+        "members": {
             "online": 5,
             "max": 50,
             "list": ["Andy54545", "C3ptik", "Dinglechalk_JR", "PopcornEater666", "Stickie_Pickle"]
