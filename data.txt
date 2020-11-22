@@ -3,20 +3,20 @@
     "age":31,
     "members":[
         { "playername":"erolightning", "info":[
-            "", 
-            "", 
-            ""
+            "3 years", 
+            "I want to kill mobs", 
+            "PvP, Farming, Resourcer"
        ]},
         { "playername":"covid", "info":[
-            "", 
-            "", 
-            ""
+            "8 months", 
+            "I want to kill people", 
+            "Infencor, warrior"
        ]},
         { "playername":"Lumierre", 
         "info":[
-            "", 
-            "", 
-            ""
+            "8 years", 
+            "Leave me alone!", 
+            "Builder, redstoner, farmer"
        ]}
     ]
 }
